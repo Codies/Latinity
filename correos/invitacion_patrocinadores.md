@@ -1,17 +1,21 @@
 ## Latinity llega a Colombia
 
 **¿Te gustaría apoyar a mujeres latinoamericanas apasionadas por la computación y tecnología?**
+
 [Latinity 2018](http://latinity.co/)  es la oportunidad perfecta para hacerlo.
 
 **¿No sabes que es [Latinity](http://latinity.co/)?**
+
 Es una conferencia de dos días, realizada cada año un país latinoamericano distinto,
 que busca destacar y fomentar la participación activa de mujeres en ciencia y tecnología.
 
 **¿En Colombia?**
+
 Sí, Latinity 2018 tendrá lugar en Bogotá, del **00** al **99** de **MES** en la Universidad Javeriana.
 Es primera vez que un evento de esta naturaleza (y tamaño) se realiza en Colombia, y necesitamos tu apoyo para que sea exitoso.
 
 **¿Como puedo ayudar?**
+
 Siguiendo 2 sencillos pasos:
 1. Escoger la categoría* de patrocinio que mejor se ajuste a tu capacidad y ganas de ser parte del evento. Las opciones son:
   > `Platinum`
@@ -34,6 +38,7 @@ Si tienes dudas, quieres saber más del evento o tienes otra forma de brindar ap
 ----------------
 
 **Atentamente,**
+
 Comité organizador de Latinity 2018
 
 
